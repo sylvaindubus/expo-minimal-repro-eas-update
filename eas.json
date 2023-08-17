@@ -1,0 +1,43 @@
+{
+  "cli": {
+    "version": ">= 2"
+  },
+  "build": {
+    "kenny": {
+      "channel": "kenny",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "cartman": {
+      "channel": "cartman",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "qa": {
+      "channel": "qa",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "qa2": {
+      "channel": "qa2",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "qa3": {
+      "channel": "qa3",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "stabilisation": {
+      "channel": "stabilisation"
+    },
+    "production": {
+      "channel": "production"
+    }
+  }
+}
